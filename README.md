@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/nandan_hemanth" target="blank"><img src="https://img.shields.io/twitter/follow/nandan_hemanth?logo=twitter&style=for-the-badge" alt="nandan_hemanth" /></a> </p>
 
-- 📫 Get to Know me! **ML particularly Deep Learning has always driven me to learn something new everyday. I'm on a scavenge hunt for revolutionary Technologies out there! An Energetic Extrovert who loves Football, gaming and is a fitness freak!**
+- 📫  **Machine Learning Wizard and Software Developer passionate about cutting-edge tech! My skills extend to Data Science, Web Development, Cloud and Innovation. I'm committed to shipping high-quality code and I am passionate about creating robust and efficient solutions in software development. I'm a cheerful, strong Energetic contributor with exceptional people skills.**
+- My Portfolio Website - https://nandan-hemanth.vercel.app/ 
 
 - 🔭 I’m currently working on **Speech Processing & Computer Vision Projects**
 
